@@ -1,8 +1,7 @@
 FLASH CC253X with ESP based device
 
-READ BEFORE: Méthode de flash
 
-
+Dev for different firmware version:
 
 router-cc253x-std.hex
 =====================
