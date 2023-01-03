@@ -8,7 +8,7 @@ Different firmware version:
 
 router-cc253x-std.hex
 =====================
-The standard firmware without any additional diagnostic messages.
+The standard firmware without any additional diagnostic messages. You can plug in directly to USB charger (Exemple a phone charger) This firmware don't need any usb connection (No need computer, raspberry, ....)
 
 router-cc253x-diag.hex
 ======================
