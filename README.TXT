@@ -1,7 +1,10 @@
 FLASH CC253X with ESP based device
 
+Use How to flash for method to flash the CC253X, you can also use the file named méthode de flash Windows (in french)
 
-Dev for different firmware version:
+
+Different firmware version:
+---------------------------
 
 router-cc253x-std.hex
 =====================
