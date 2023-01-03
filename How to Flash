@@ -1,0 +1,11 @@
+Méthode de Flash Windows:
+
+Utiliser CCLoader_x86_64.exe ou CCloader.exe depuis le dossier Windows.
+Placez le .bin dans le même dossier que l'éxecutable CCloader.
+
+Commande à exécuter pour démarrer le processus de flash:
+  CCLoader_x86_64.exe (COM port #) <nomdubin>.bin 0
+  
+ Exemple: CCloader_x86-64.exe 5 CC2530ZNP-Prod.bin 0
+ 
+ 
