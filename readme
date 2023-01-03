@@ -1,3 +1,9 @@
+FLASH CC253X with ESP based device
+
+READ BEFORE: Méthode de flash
+
+
+
 router-cc253x-std.hex
 =====================
 The standard formware without any additional diagnostic messages.
