@@ -19,7 +19,7 @@ for every neighbor in a network. This report looks like:
 description: '28069/0x00158D0001DE7964',
 inactiveText: 'PARENT',
 presentValue: 6,
-relinquishDefault: 1,
+relinquish Default: 1,
 minimumOffTime: 0
 }
 
