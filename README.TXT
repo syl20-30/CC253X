@@ -6,11 +6,11 @@ READ BEFORE: Méthode de flash
 
 router-cc253x-std.hex
 =====================
-The standard formware without any additional diagnostic messages.
+The standard firmware without any additional diagnostic messages.
 
 router-cc253x-diag.hex
 ======================
-The firmware with additional diagnostic messages. This firmware sends the ìgenBinaryValueî report 
+The firmware with additional diagnostic messages. This firmware sends the Binary Value report 
 for every neighbor in a network. This report looks like:
 	
 {
@@ -23,11 +23,11 @@ minimumOffTime: 0
 
 Where:
 
-description ñ network and MAC address.
-inactiveText ñ device role in a network.
-presentValue ñ RSSI value of the last received packet (rxLqi).
-relinquishDefault (optional) ñ path depth.
-minimumOffTime (optional) ñ number of associated devices.
+description network and MAC address.
+inactive Text device role in a network.
+present Value  RSSI value of the last received packet.
+relinquish Default (optional)  path depth.
+minimumOffTime (optional) number of associated devices.
 
 router-cc2531-diag-usb.hex
 =========================
@@ -58,9 +58,9 @@ The firmware is compiled for a particular version of the CC2530 board with the a
 Lights
 =========================
 
-Short fast blinks (one per second) ñ the router is connecting to a network.
-Short long blinks (one per 4 seconds) ñ normal operations.
-Three short blinks ñ the router cannot send a report to a coordinator.
+Short fast blinks (one per second) The router is connecting to a network.
+Short long blinks (one per 4 seconds) Normal operations.
+Three short blinks the router cannot send a report to a coordinator.
 
 Pairing
 =========================
