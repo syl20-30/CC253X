@@ -1,4 +1,4 @@
-FLASH CC253X with ESP based device with MC power
+FLASH CC253X with ESP based device with MC power.
 
 Use How to flash for method to flash the CC253X, you can also use the file named méthode de flash Windows (in french)
 
